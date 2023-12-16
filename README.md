@@ -1,6 +1,6 @@
 # Calculadora Web
 
-https://i.postimg.cc/TPW5bnRF/CALCULADORA.png)](https://postimg.cc/f3DbntSf
+[![CALCULADORA-GRANDE.png](https://i.postimg.cc/6QHqVrRB/CALCULADORA-GRANDE.png)](https://postimg.cc/FfLhNJD6)
 
 ## Descripción
 
