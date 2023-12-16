@@ -1,6 +1,6 @@
 # Calculadora Web
 
-![Calculadora Web([![CALCULADORA.png](https://i.postimg.cc/TPW5bnRF/CALCULADORA.png)](https://postimg.cc/f3DbntSf))
+https://i.postimg.cc/TPW5bnRF/CALCULADORA.png)](https://postimg.cc/f3DbntSf
 
 ## Descripción
 
