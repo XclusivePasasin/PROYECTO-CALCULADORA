@@ -30,7 +30,7 @@ Agradezco tu interés en esta calculadora simple pero práctica. ¡Espero que en
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE.md](LICENSE.md) para obtener más detalles.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE.md](LICENSE) para obtener más detalles.
 
 ¡Gracias por utilizar la Calculadora Web! Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto.
 
